@@ -42,4 +42,14 @@ We currently operate facilities in:
 ---
 
 ## 🛠️ How to Use This Repository
-This repository serves as
+This repository serves as the official GitHub space for **Self Storage Bali – WSS**, where we share:
+- Company information  
+- Marketing resources  
+- Blog drafts & web content  
+- Future tech integrations (APIs, booking systems, automation tools)  
+
+### Clone This Repository
+If you want to work with this repository:
+```bash
+git clone https://github.com/USERNAME/REPOSITORY.git
+cd REPOSITORY
